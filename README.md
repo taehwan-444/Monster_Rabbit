@@ -5,4 +5,5 @@
 <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Vowpal Wabbit&logoColor=BLACK"/> # Welcome to my rabbit house 
 
 <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Home Assistant Community Store&logoColor=BLACK"/> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
